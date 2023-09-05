@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi 👋 I'm Idalith Bustos😊
+  - 📝 Technical Writer for IndexerDAO
+  - 🎓 Previously an English College Professor
+  - ✨ Full-time Poet 
 <!--
 **idalithb/idalithb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
